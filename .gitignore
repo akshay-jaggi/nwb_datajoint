@@ -138,7 +138,6 @@ dmypy.json
 *.cameraHWSync
 *.stateScriptLog
 
-*.nwb
 *.DS_Store
 
 temp_nwb/*
